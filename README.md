@@ -1,6 +1,6 @@
 ###
-![](https://github.com/TimurC1/TimurC1/blob/main/phonkeramsalamostalnimnezaviduyu.gif?raw=true)
-<!--
+<!-- ![](https://github.com/TimurC1/TimurC1/blob/main/phonkeramsalamostalnimnezaviduyu.gif?raw=true)
+
 **TimurC1/TimurC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
